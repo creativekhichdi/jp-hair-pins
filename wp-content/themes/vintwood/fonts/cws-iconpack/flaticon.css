@@ -1,0 +1,168 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 14/09/2018 13:09
+  	*/
+
+@font-face {
+  font-family: "cwsicon";
+  src: url("https://creativekhichdi.github.io/jp-hair-pins/wp-content/themes/vintwood/fonts/cws-iconpack/Flaticon.eot");
+  src: url("https://creativekhichdi.github.io/jp-hair-pins/wp-content/themes/vintwood/fonts/cws-iconpack/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("https://creativekhichdi.github.io/jp-hair-pins/wp-content/themes/vintwood/fonts/cws-iconpack/Flaticon.woff") format("woff"),
+       url("https://creativekhichdi.github.io/jp-hair-pins/wp-content/themes/vintwood/fonts/cws-iconpack/Flaticon.ttf") format("truetype"),
+       url("https://creativekhichdi.github.io/jp-hair-pins/wp-content/themes/vintwood/fonts/cws-iconpack/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "cwsicon";
+    src: url("https://creativekhichdi.github.io/jp-hair-pins/wp-content/themes/vintwood/fonts/cws-iconpack/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="cwsicon-"]:before, [class*=" cwsicon-"]:before,
+[class^="cwsicon-"]:after, [class*=" cwsicon-"]:after {   
+  font-family: cwsicon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.cwsicon-down-arrow:before { content: "\f100"; }
+.cwsicon-bunch-of-grapes:before { content: "\f101"; }
+.cwsicon-adobe-lightroom:before { content: "\f102"; }
+.cwsicon-maps-and-flags:before { content: "\f103"; }
+.cwsicon-dropper:before { content: "\f104"; }
+.cwsicon-worldwide:before { content: "\f105"; }
+.cwsicon-cereal:before { content: "\f106"; }
+.cwsicon-adobe-photoshop:before { content: "\f107"; }
+.cwsicon-cask:before { content: "\f108"; }
+.cwsicon-process-graph:before { content: "\f109"; }
+.cwsicon-chef-hat-with-mustache:before { content: "\f10a"; }
+.cwsicon-coffee-to-go:before { content: "\f10b"; }
+.cwsicon-adobe-flash-player:before { content: "\f10c"; }
+.cwsicon-like:before { content: "\f10d"; }
+.cwsicon-video-camera:before { content: "\f10e"; }
+.cwsicon-video-player:before { content: "\f10f"; }
+.cwsicon-internet-grid:before { content: "\f110"; }
+.cwsicon-magnifying-glass-search:before { content: "\f111"; }
+.cwsicon-telephone-of-old-design:before { content: "\f112"; }
+.cwsicon-tick-sign:before { content: "\f113"; }
+.cwsicon-close-envelope:before { content: "\f114"; }
+.cwsicon-wrong:before { content: "\f115"; }
+.cwsicon-zoom-in:before { content: "\f116"; }
+.cwsicon-beer-pint:before { content: "\f117"; }
+.cwsicon-rotate-option:before { content: "\f118"; }
+.cwsicon-check-mark-black-outline:before { content: "\f119"; }
+.cwsicon-shopping-basket:before { content: "\f11a"; }
+.cwsicon-right-quote-symbol:before { content: "\f11b"; }
+.cwsicon-shopping-basket-1:before { content: "\f11c"; }
+.cwsicon-instagram-social-network-logo-of-photo-camera:before { content: "\f11d"; }
+.cwsicon-chat:before { content: "\f11e"; }
+.cwsicon-twitter-social-logotype:before { content: "\f11f"; }
+.cwsicon-user:before { content: "\f120"; }
+.cwsicon-pinterest-social-logo:before { content: "\f121"; }
+.cwsicon-adobe-illustrator:before { content: "\f122"; }
+.cwsicon-facebook-logo:before { content: "\f123"; }
+.cwsicon-adobe-indesign:before { content: "\f124"; }
+.cwsicon-restaurant-menu:before { content: "\f125"; }
+.cwsicon-adobe-bridge:before { content: "\f126"; }
+.cwsicon-link:before { content: "\f127"; }
+.cwsicon-opacity:before { content: "\f128"; }
+.cwsicon-pyramid:before { content: "\f129"; }
+.cwsicon-sketch:before { content: "\f12a"; }
+.cwsicon-photo-camera:before { content: "\f12b"; }
+.cwsicon-crop:before { content: "\f12c"; }
+.cwsicon-user-1:before { content: "\f12d"; }
+.cwsicon-vector:before { content: "\f12e"; }
+.cwsicon-psd:before { content: "\f12f"; }
+.cwsicon-youtube:before { content: "\f130"; }
+.cwsicon-rgb:before { content: "\f131"; }
+.cwsicon-twitter:before { content: "\f132"; }
+.cwsicon-mouse:before { content: "\f133"; }
+.cwsicon-mapping:before { content: "\f134"; }
+.cwsicon-artboard:before { content: "\f135"; }
+.cwsicon-idea:before { content: "\f136"; }
+.cwsicon-quality:before { content: "\f137"; }
+.cwsicon-pencil:before { content: "\f138"; }
+.cwsicon-bar:before { content: "\f139"; }
+.cwsicon-cafe:before { content: "\f13a"; }
+.cwsicon-whiskey:before { content: "\f13b"; }
+.cwsicon-gift:before { content: "\f13c"; }
+.cwsicon-ai:before { content: "\f13d"; }
+.cwsicon-png:before { content: "\f13e"; }
+.cwsicon-facebook:before { content: "\f13f"; }
+.cwsicon-linkedin:before { content: "\f140"; }
+.cwsicon-messenger:before { content: "\f141"; }
+.cwsicon-adobe-fireworks:before { content: "\f142"; }
+.cwsicon-responsive:before { content: "\f143"; }
+.cwsicon-printer:before { content: "\f144"; }
+.cwsicon-text:before { content: "\f145"; }
+.cwsicon-shapes:before { content: "\f146"; }
+.cwsicon-swiss-army-knife:before { content: "\f147"; }
+.cwsicon-magic-tool:before { content: "\f148"; }
+.cwsicon-folder:before { content: "\f149"; }
+.cwsicon-rgb-1:before { content: "\f14a"; }
+.cwsicon-layer:before { content: "\f14b"; }
+.cwsicon-startup:before { content: "\f14c"; }
+.cwsicon-pantone:before { content: "\f14d"; }
+.cwsicon-vector-1:before { content: "\f14e"; }
+.cwsicon-color:before { content: "\f14f"; }
+.cwsicon-paint:before { content: "\f150"; }
+.cwsicon-ruler:before { content: "\f151"; }
+.cwsicon-graphic-tablet:before { content: "\f152"; }
+.cwsicon-book:before { content: "\f153"; }
+.cwsicon-wireframe:before { content: "\f154"; }
+.cwsicon-shutter:before { content: "\f155"; }
+.cwsicon-resources:before { content: "\f156"; }
+.cwsicon-poster:before { content: "\f157"; }
+.cwsicon-focus:before { content: "\f158"; }
+.cwsicon-cutter:before { content: "\f159"; }
+.cwsicon-reflect:before { content: "\f15a"; }
+.cwsicon-paint-brush:before { content: "\f15b"; }
+.cwsicon-3d:before { content: "\f15c"; }
+.cwsicon-sketching:before { content: "\f15d"; }
+.cwsicon-highlighter:before { content: "\f15e"; }
+.cwsicon-billboard:before { content: "\f15f"; }
+.cwsicon-illustration:before { content: "\f160"; }
+.cwsicon-eraser:before { content: "\f161"; }
+.cwsicon-zoom-in-1:before { content: "\f162"; }
+.cwsicon-cube:before { content: "\f163"; }
+.cwsicon-graphic-design:before { content: "\f164"; }
+.cwsicon-pencil-case:before { content: "\f165"; }
+.cwsicon-psd-1:before { content: "\f166"; }
+.cwsicon-spray-paint:before { content: "\f167"; }
+.cwsicon-image:before { content: "\f168"; }
+.cwsicon-photo-camera-1:before { content: "\f169"; }
+.cwsicon-crop-1:before { content: "\f16a"; }
+.cwsicon-compass:before { content: "\f16b"; }
+.cwsicon-paint-bucket:before { content: "\f16c"; }
+.cwsicon-puzzle:before { content: "\f16d"; }
+.cwsicon-computer:before { content: "\f16e"; }
+.cwsicon-rgb-2:before { content: "\f16f"; }
+.cwsicon-cd-burn:before { content: "\f170"; }
+.cwsicon-blur:before { content: "\f171"; }
+.cwsicon-tick:before { content: "\f172"; }
+.cwsicon-info:before { content: "\f173"; }
+.cwsicon-alert:before { content: "\f174"; }
+.cwsicon-risk:before { content: "\f175"; }
+.cwsicon-back:before { content: "\f176"; }
+.cwsicon-banner:before { content: "\f177"; }
+.cwsicon-search:before { content: "\f178"; }
+.cwsicon-star:before { content: "\f179"; }
+.cwsicon-star-black-fivepointed-shape:before { content: "\f17a"; }
+.cwsicon-spotlight:before { content: "\f17b"; }
+.cwsicon-key:before { content: "\f17c"; }
+.cwsicon-key-1:before { content: "\f17d"; }
+.cwsicon-right-arrow:before { content: "\f17e"; }
+.cwsicon-right-arrow-of-indian-style:before { content: "\f17f"; }
+.cwsicon-cereal-1:before { content: "\f180"; }
+.cwsicon-hashtag:before { content: "\f181"; }
+.cwsicon-right-arrow-1:before { content: "\f182"; }
+.cwsicon-left-arrow:before { content: "\f183"; }
+.cwsicon-next:before { content: "\f184"; }
+.cwsicon-back-1:before { content: "\f185"; }
+.cwsicon-black:before { content: "\f186"; }
+.cwsicon-hipster:before { content: "\f187"; }
+.cwsicon-mustaches:before { content: "\f188"; }

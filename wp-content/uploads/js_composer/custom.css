@@ -1,0 +1,24 @@
+.main-nav-container .main-menu > .menu-item:not(:last-child):after {
+    content: none;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    top: 1.2em;
+    right: -33px;
+    line-height: 12px;
+    font-size: 12px;
+    pointer-events: none;
+}
+
+
+.footer_container .cws-widget ul.menu li >a:after {
+    content: none;
+    font-family: 'cwsicon';
+    position: absolute;
+    right: -24px;
+    top: 49%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-size: 9px;
+    pointer-events: none;
+}
