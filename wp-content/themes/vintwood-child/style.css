@@ -15,3 +15,7 @@ Template: vintwood
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
+.cws_textmodule_title .hindi{
+    font-size: 12px;
+}

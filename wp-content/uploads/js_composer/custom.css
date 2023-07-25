@@ -22,3 +22,55 @@
     font-size: 9px;
     pointer-events: none;
 }
+
+.wpcf7-spinner {
+    visibility: hidden;
+    display: table-column;
+    background-color: #23282d;
+    opacity: 0.75;
+    width: 24px;
+    height: 24px;
+    border: none;
+    border-radius: 100%;
+    padding: 0;
+    margin: 0 24px;
+    position: relative;
+}
+
+.cws_textmodule_banner:after{
+    display: none !important;
+}
+
+.right-shape, .left-shape{
+    display: none !important;
+}
+
+.item.cws_staff_post .cws_staff_post_info .cws_staff_post_title .no_link:after, .item.cws_staff_post .cws_staff_post_info .cws_staff_post_title a:after{
+    display: none !important;
+}
+
+
+.item.cws_staff_post .cws_staff_post_info .cws_staff_post_title .no_link:before, .item.cws_staff_post .cws_staff_post_info .cws_staff_post_title a:before{
+    display: none !important;
+}
+
+.item.cws_staff_post .cws_staff_post_media .cws_staff_photo:before{
+    display: none !important;
+}
+
+.item.cws_staff_post .cws_staff_post_media .cws_staff_photo:after{
+    display: none !important;
+}
+
+.cws_textmodule_banner{
+    padding: 0;
+}
+
+.cws_textmodule_text.text_align_left .cws_textmodule_banner{
+    margin-left: 0;
+}
+
+.cws_textmodule_banner {
+    font-size: 50px;
+    font-weight: 600 !important;
+}
