@@ -74,3 +74,22 @@
     font-size: 50px;
     font-weight: 600 !important;
 }
+
+ .item.cws_staff_post .cws_staff_post_media .cws_staff_photo:before,
+.item.cws_staff_post .cws_staff_post_media .cws_staff_photo:after,
+.item.cws_staff_post .cws_staff_post_media .cws_staff_photo,
+.item.cws_staff_post .cws_staff_post_media .cws_staff_photo img{
+	-webkit-border-radius: 0%;
+	border-radius: 0%;
+}
+
+.vc_custom_1536731433978{padding-right: 20px !important;}
+
+.counter{
+	font-weight: 600;
+	font-family: 'Barlow Condensed';
+}
+.wpsm_count-title{
+    	font-family: 'Barlow Condensed' !important;
+    	margin-top: 5px !important;
+}

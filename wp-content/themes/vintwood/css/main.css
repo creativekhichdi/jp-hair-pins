@@ -12438,13 +12438,13 @@ div.tribe-events-notices>ul>li{
 	width: calc(100% - 26px);
 	height: calc(100% - 26px);
 }
-/* .item.cws_staff_post .cws_staff_post_media .cws_staff_photo:before,
+.item.cws_staff_post .cws_staff_post_media .cws_staff_photo:before,
 .item.cws_staff_post .cws_staff_post_media .cws_staff_photo:after,
 .item.cws_staff_post .cws_staff_post_media .cws_staff_photo,
 .item.cws_staff_post .cws_staff_post_media .cws_staff_photo img{
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
-} */
+}
 .item.cws_staff_post .cws_staff_post_media .cws_staff_photo .link_author{
 	position: relative;
 	z-index: 3;
@@ -28665,9 +28665,4 @@ CWS TIPR
 }
 .blocks-gallery-grid, .wp-block-gallery li:before {
     content: none;
-}
-
-.counter{
-	font-weight: 600;
-	font-family: 'Barlow Condensed';
 }
