@@ -28666,3 +28666,7 @@ CWS TIPR
 .blocks-gallery-grid, .wp-block-gallery li:before {
     content: none;
 }
+
+#wpsm_counter_b_row_1401 .wpsm_counterbox .wpsm_count-icon img{
+	 width: 120px !important;
+}
