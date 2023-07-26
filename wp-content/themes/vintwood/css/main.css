@@ -28666,3 +28666,8 @@ CWS TIPR
 .blocks-gallery-grid, .wp-block-gallery li:before {
     content: none;
 }
+
+.counter{
+	font-weight: 600;
+	font-family: 'Barlow Condensed';
+}
