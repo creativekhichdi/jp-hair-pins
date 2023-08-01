@@ -4161,7 +4161,7 @@ li.header_logo_part:before{
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	min-width: 125%;
+	min-width: 100%;
 	-webkit-transform: translate(-50%, -50%) rotate(0deg);
 	transform: translate(-50%, -50%) rotate(0deg);
 	-webkit-transform-origin: center center;
