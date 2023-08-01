@@ -23422,6 +23422,7 @@ div.vc_toggle{
 	height: 100%;
 	display: block;
 	z-index: -2;
+	background-size: contain;
 }
 .cws-layer{
 	position: absolute !important;
